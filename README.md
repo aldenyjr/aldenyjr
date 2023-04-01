@@ -6,7 +6,7 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Aldeny Júnior</h1>
-  <p>Aventureiro nesse universo que é gigantesco!</p>
+  <p>Aventureiro nesse universo da programação e suas tecnologias que é gigantesco!</p>
 <!--  <a href="https://www.instagram.com/jeniblo_dev/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 

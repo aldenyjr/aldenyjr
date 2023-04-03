@@ -67,7 +67,7 @@ Estou aproximadamente estudando a pouco +14 meses, e estou muito feliz com os re
   
   ## Contato
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/juninhoo.passos/), [Gmail](mailto:juniorfilhobom@gmail.com) ou [Linkedin](https://www.linkedin.com/in/aldeny-jr-65b5071b7/) eu demoro a responder as vezes mas sou legal, juro 🙃 e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/juninhoo.passos/), [Gmail](mailto:aldenyjr.dev@gmail.com) ou [Linkedin](https://www.linkedin.com/in/aldeny-jr-65b5071b7/) eu demoro a responder as vezes mas sou legal, juro 🙃 e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 <div align=center>
 <!-- <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->

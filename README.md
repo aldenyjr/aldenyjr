@@ -89,7 +89,7 @@ ___
 </div>
 
 
-<!-- ![Snake animation](https://github.com/aldenyjr/aldenyjr/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/aldenyjr/aldenyjr/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--

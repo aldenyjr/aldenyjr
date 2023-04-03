@@ -31,8 +31,8 @@ Estou aproximadamente estudando a pouco +14 meses, e estou muito feliz com os re
 </br>
 
 ### Informações Acadêmica
-* Estou cursando o 3º Semestre do Curso Analise e Desenvolvimento de Sistemas pela UNIFACS SALVADOR.
-* Estudo linguagens e tecnologias no Alura <a href="https://cursos.alura.com.br/user/aldenyjr/fullCertificate/c7bbcd83338d226f4c6157a682694a6d">minhas certificações. 🖥️</a>
+* Estou no 3º Semestre do Curso Analise e Desenvolvimento de Sistemas pela UNIFACS SALVADOR.
+* Estudo também na Alura <a href="https://cursos.alura.com.br/user/aldenyjr/fullCertificate/c7bbcd83338d226f4c6157a682694a6d">Veja Minhas Certificações</a>
 
 </br>
 <h2> 🖥️ Tecnologias e Ferramentas: </h2>

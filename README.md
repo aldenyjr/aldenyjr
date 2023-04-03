@@ -89,7 +89,11 @@ ___
 </div>
 
 
-![Snake animation](https://github.com/aldenyjr/aldenyjr/blob/output/github-contribution-grid-snake.svg)
+<div align=center> 
+  
+  ![Snake animation](https://github.com/aldenyjr/aldenyjr/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 
 <!--

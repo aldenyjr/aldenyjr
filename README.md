@@ -35,10 +35,10 @@ Estou aproximadamente estudando a pouco +14 meses, e estou muito feliz com os re
 * Estudo linguagens e tecnologias no Alura <a href="https://cursos.alura.com.br/user/aldenyjr/fullCertificate/c7bbcd83338d226f4c6157a682694a6d">minhas certificações. 🖥️</a>
 
 </br>
-<h2> 🖥️ Tecnologias e Ferramentas </h2>
+<h2> 🖥️ Tecnologias e Ferramentas: </h2>
 </br>
-<div  style="display:flex, justify-content:space-between"><br>
-  <div>
+<div  style="display:flex, justify-content:space-between" ><br>
+  <div align=center>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -52,10 +52,10 @@ Estou aproximadamente estudando a pouco +14 meses, e estou muito feliz com os re
      </br>
   </div></br>
   
-<h2> 🖥️Próximas Tecnologias que irei estudar</h2>
+<h2> 🖥️ Breve vou aprender: </h2>
    </br>
 
-  <div>
+  <div align=center>
     <img align="center" alt="ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
     <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="PYHTON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -69,7 +69,7 @@ Estou aproximadamente estudando a pouco +14 meses, e estou muito feliz com os re
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/juninhoo.passos/) ou pelo [Twitter](https://twitter.com) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
-<div>
+<div align=center>
 <!-- <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 <a href="https://www.instagram.com/juninhoo.passos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!-- <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->

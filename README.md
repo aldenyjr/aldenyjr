@@ -24,7 +24,7 @@
 
 ## Hello, Devs!!!
 
-Tenho 29 anos, moro em Salvador/BA e sou apaixonado por programação e suas tecnologias! </br>
+Tenho 30 anos, moro em Salvador/BA e sou apaixonado por programação e suas tecnologias! </br>
 Sou iniciante no universo da programação, caçadoror oficial de bugs, e quanto mais eu aprendo e passo raiva, mais vontade eu tenho em continuar.</br>
 Estou aproximadamente estudando a pouco +14 meses, e estou muito feliz com os resultados até aqui!
 
